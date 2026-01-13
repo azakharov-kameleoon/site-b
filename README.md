@@ -1,2 +1,2 @@
 # site-b
-site-b
+This is site B
